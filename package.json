@@ -1,0 +1,25 @@
+{
+  "name": "shield-discord-bot",
+  "version": "2.0.0",
+  "description": "Discord Shield & Multi-Tool Bot with Anti-Nuke, Backups, Store & Moderation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "bot", "discord-js", "protection", "anti-nuke", "moderation", "backup"],
+  "author": "Bot Developer",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "botName": "Shield Protection & Multi-Tool",
+  "defaultColor": "#5865F2",
+  "successColor": "#57F287",
+  "errorColor": "#ED4245",
+  "warningColor": "#FEE75C",
+  "ownerIds": ["YOUR_USER_ID_HERE"],
+  "footerText": "Shield Bot • Advanced Server Protection",
+  "defaultSlowmode": 0
+}
